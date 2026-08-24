@@ -2,7 +2,7 @@
 int main()
 
 {
-  int l,b,p,a;
+    int l,b,p,a;
 	printf("Enter Length And Breadth = ");
 	scanf("%d%d",&l,&b);
 	p = (l+b)*2;
